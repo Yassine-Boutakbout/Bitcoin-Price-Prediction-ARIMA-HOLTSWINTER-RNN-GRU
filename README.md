@@ -9,7 +9,7 @@ https://dev.binance.vision/t/beginners-guide-to-quoteorderqty-market-orders/404
 https://github.com/binance/binance-public-data
 
 
-##other usefull websites
+## Other usefull websites
 https://www.cryptodatadownload.com/data/binance/
 https://www.geeksforgeeks.org/read-json-file-using-python/
 https://www.geeksforgeeks.org/how-to-select-multiple-columns-in-a-pandas-dataframe/
