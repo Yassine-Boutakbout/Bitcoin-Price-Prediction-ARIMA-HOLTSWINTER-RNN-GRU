@@ -2,10 +2,10 @@
 
 this project is a simple application of price prediction algorithms in a jupyter notebook.
 
-##Data used can be downloaded from here:
+## Data used can be downloaded from here:
 https://dev.binance.vision/t/beginners-guide-to-quoteorderqty-market-orders/404
 
-##more on how to download data:
+## more on how to download data:
 https://github.com/binance/binance-public-data
 
 
